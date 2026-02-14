@@ -1,0 +1,77 @@
+PWD d:\LaTeX-Guides\ThucHanh
+INPUT C:\Users\Administrator\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
+INPUT d:\LaTeX-Guides\ThucHanh\CauTruc.tex
+OUTPUT CauTruc.log
+INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\tex\latex\paper\paper.cls
+INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\tex\latex\paper\paper.cls
+INPUT C:\Program Files\MiKTeX\tex\latex\base\size10.clo
+INPUT C:\Program Files\MiKTeX\tex\latex\base\size10.clo
+INPUT C:\Program Files\MiKTeX\tex\latex\base\size10.clo
+INPUT C:\Program Files\MiKTeX\tex\latex\base\inputenc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\inputenc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\fontenc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\fontenc.sty
+INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\tex\latex\vntex\t5enc.def
+INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\tex\latex\vntex\t5enc.def
+INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\tex\latex\vntex\t5enc.def
+INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\tex\latex\vntex\t5enc.dfu
+INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\tex\latex\vntex\t5enc.dfu
+INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\tex\latex\vntex\t5enc.dfu
+INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\tex\latex\vntex\t5cmr.fd
+INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\tex\latex\vntex\t5cmr.fd
+INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\tex\latex\vntex\t5cmr.fd
+INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\fonts\tfm\vntex\vnr\vnr10.tfm
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\babel.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\babel.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\txtbabel.def
+INPUT C:\Program Files\MiKTeX\tex\latex\arabi\bblopts.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\arabi\bblopts.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\arabi\bblopts.cfg
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\locale\vi\babel-vietnamese.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\locale\vi\babel-vietnamese.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\locale\vi\babel-vietnamese.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\locale\vi\babel-vi.ini
+INPUT C:\Program Files\MiKTeX\tex\latex\babel-vietnamese\vietnamese.ldf
+INPUT C:\Program Files\MiKTeX\tex\latex\babel-vietnamese\vietnamese.ldf
+INPUT C:\Program Files\MiKTeX\tex\latex\babel-vietnamese\vietnamese.ldf
+INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\tex\latex\vntex\t5enc.def
+INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT .\CauTruc.aux
+INPUT .\CauTruc.aux
+INPUT CauTruc.aux
+OUTPUT CauTruc.aux
+INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\fonts\tfm\vntex\vnr\vnr17.tfm
+INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\tex\latex\vntex\t5cmss.fd
+INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\tex\latex\vntex\t5cmss.fd
+INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\tex\latex\vntex\t5cmss.fd
+INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\fonts\tfm\vntex\vnr\vnss17.tfm
+INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\fonts\tfm\vntex\vnr\vnssbx10.tfm
+INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\fonts\tfm\vntex\vnr\vnr12.tfm
+INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\fonts\tfm\vntex\vnr\vnss12.tfm
+INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\fonts\tfm\vntex\vnr\vnssi12.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmmi12.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
+INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\fonts\tfm\vntex\vnr\vnr12.tfm
+INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\fonts\tfm\vntex\vnr\vnss12.tfm
+INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\fonts\tfm\vntex\vnr\vnssbx10.tfm
+INPUT .\CauTruc.toc
+INPUT .\CauTruc.toc
+INPUT CauTruc.toc
+OUTPUT CauTruc.toc
+INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\fonts\tfm\vntex\vnr\vnbx10.tfm
+INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\fonts\tfm\vntex\vnr\vnti10.tfm
+OUTPUT CauTruc.pdf
+INPUT C:\Users\Administrator\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
+INPUT CauTruc.aux
+INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\fonts\type1\vntex\vnr\vnbx10.pfb
+INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\fonts\type1\vntex\vnr\vnbx10.pfb
+INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\fonts\type1\vntex\vnr\vnr10.pfb
+INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\fonts\type1\vntex\vnr\vnr10.pfb
+INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\fonts\type1\vntex\vnr\vnssbx10.pfb
+INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\fonts\type1\vntex\vnr\vnssbx10.pfb
+INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\fonts\type1\vntex\vnr\vnssi12.pfb
+INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\fonts\type1\vntex\vnr\vnssi12.pfb
+INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\fonts\type1\vntex\vnr\vnti10.pfb
+INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\fonts\type1\vntex\vnr\vnti10.pfb
