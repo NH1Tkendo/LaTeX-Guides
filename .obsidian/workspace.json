@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Danh sách và bảng/2-5 Môi trường Table và Định vị Bảng.md",
+                "file": "3. Viết công thức Toán học trong LaTeX/3-4 Hàm lượng giác.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2-5 Môi trường Table và Định vị Bảng"
+              "title": "3-4 Hàm lượng giác"
             }
           }
         ]
@@ -185,20 +185,24 @@
   },
   "active": "e2b00005954da84f",
   "lastOpenFiles": [
-    "ThucHanh/ThucHanh_Bang.synctex(busy)",
-    "ThucHanh/ThucHanh_Bang.fls",
-    "ThucHanh/ThucHanh_Bang.log",
-    "ThucHanh/ThucHanh_Bang.synctex.gz",
-    "ThucHanh/ThucHanh_Bang.pdf",
-    "ThucHanh/ThucHanh_Bang.fdb_latexmk",
-    "ThucHanh/ThucHanh_Bang.aux",
-    "ThucHanh/ThucHanh_Bang.tex",
-    "2. Danh sách và bảng/2-4 Tạo bảng trong LaTeX.md",
+    "ThucHanh/ThucHanh_ToanHoc.synctex(busy)",
+    "ThucHanh/ThucHanh_ToanHoc.fls",
+    "ThucHanh/ThucHanh_ToanHoc.log",
+    "ThucHanh/ThucHanh_ToanHoc.synctex.gz",
+    "ThucHanh/ThucHanh_ToanHoc.pdf",
+    "ThucHanh/ThucHanh_ToanHoc.fdb_latexmk",
+    "ThucHanh/ThucHanh_ToanHoc.aux",
+    "ThucHanh/ThucHanh_ToanHoc.tex",
+    "ThucHanh/ThucHanh_ToanHoc",
+    "3. Viết công thức Toán học trong LaTeX/3-3 Môi trường Toán.md",
+    "3. Viết công thức Toán học trong LaTeX/3-4 Hàm lượng giác.md",
+    "3. Viết công thức Toán học trong LaTeX/3-2 Ký tự Hy Lạp và Phân số trong LaTeX.md",
+    "3. Viết công thức Toán học trong LaTeX/3-1 Inline Math.md",
     "2. Danh sách và bảng/2-5 Môi trường Table và Định vị Bảng.md",
+    "3. Viết công thức Toán học trong LaTeX",
+    "ThucHanh/ThucHanh_Bang.synctex(busy)",
+    "2. Danh sách và bảng/2-4 Tạo bảng trong LaTeX.md",
     "2. Danh sách và bảng/2-2 Tạo Danh sách Không có Thứ tự.md",
-    "ThucHanh/ThucHanh_DanhSach.synctex(busy)",
-    "ThucHanh/ThucHanh_DanhSach.fls",
-    "ThucHanh/ThucHanh_DanhSach.log",
     "2. Danh sách và bảng/2-3 Tạo danh sách có thứ tự.md",
     "2. Danh sách và bảng/2-1 Phân biệt Lệnh và Môi trường.md",
     "1. Cấu trúc tài liệu LaTeX/1-6 Ghi chú trong LaTeX.md",
