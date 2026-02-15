@@ -1,4 +1,0 @@
-\babel@toc {vietnamese}{}\relax 
-\contentsline {section}{\numberline {1}Cấu trúc dự án LaTeX}{1}{}%
-\contentsline {subsection}{\numberline {1.1}Định dạng văn bản}{1}{}%
-\contentsline {subsection}{\numberline {1.2}Khai báo Metadata}{1}{}%
