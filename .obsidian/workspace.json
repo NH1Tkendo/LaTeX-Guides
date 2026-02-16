@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Viết công thức Toán học trong LaTeX/3-5 Tổng, tích phân và giới hạn trong LaTeX.md",
+                "file": "3. Viết công thức Toán học trong LaTeX/3-11 Tùy biến Môi trường Định lý.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3-5 Tổng, tích phân và giới hạn trong LaTeX"
+              "title": "3-11 Tùy biến Môi trường Định lý"
             }
           }
         ]
@@ -185,8 +185,14 @@
   },
   "active": "e2b00005954da84f",
   "lastOpenFiles": [
-    "5. Tham chiếu và đường dẫn/5-3 Gói hyperref và Siêu Liên kết.md",
+    "3. Viết công thức Toán học trong LaTeX/3-10 Tạo môi trường Định lý và Định nghĩa.md",
+    "3. Viết công thức Toán học trong LaTeX/3-11 Tùy biến Môi trường Định lý.md",
+    "3. Viết công thức Toán học trong LaTeX/3-9 Ma trận và môi trường cases.md",
+    "3. Viết công thức Toán học trong LaTeX/3-8 Phông chữ và ký hiệu trong toán học.md",
+    "3. Viết công thức Toán học trong LaTeX/3-7 Định dạng Công thức Toán học.md",
+    "3. Viết công thức Toán học trong LaTeX/3-6 Viết công thức toán trên nhiều dòng.md",
     "3. Viết công thức Toán học trong LaTeX/3-5 Tổng, tích phân và giới hạn trong LaTeX.md",
+    "5. Tham chiếu và đường dẫn/5-3 Gói hyperref và Siêu Liên kết.md",
     "5. Tham chiếu và đường dẫn/5.2 Tham chiếu Phương trình.md",
     "5. Tham chiếu và đường dẫn/5.1 Tham chiếu chéo.md",
     "4. Xử lý hình ảnh/4-3 Chèn hình ảnh bao quanh bởi văn bản.md",
@@ -214,10 +220,6 @@
     "1. Cấu trúc tài liệu LaTeX/1-6 Ghi chú trong LaTeX.md",
     "1. Cấu trúc tài liệu LaTeX/1-7 Bài tập thực hành.md",
     "1. Cấu trúc tài liệu LaTeX/1-5 Tạo và Xử lý Đoạn văn.md",
-    "1. Cấu trúc tài liệu LaTeX/1-4 Giới thiệu về Gói lệnh trong LaTeX.md",
-    "1. Cấu trúc tài liệu LaTeX/1-3 Cấu trúc văn bản và Mục lục.md",
-    "1. Cấu trúc tài liệu LaTeX/1-2 Cấu trúc khung của tài liệu LaTeX.md",
-    "README.md",
-    "1. Cấu trúc tài liệu LaTeX/1-1 Tổng quan.md"
+    "1. Cấu trúc tài liệu LaTeX/1-4 Giới thiệu về Gói lệnh trong LaTeX.md"
   ]
 }
