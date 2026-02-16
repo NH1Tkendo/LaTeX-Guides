@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Viết công thức Toán học trong LaTeX/3-11 Tùy biến Môi trường Định lý.md",
+                "file": "6. Thao tác và định dạng văn bản/6-4 Tự định nghĩa màu sắc.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3-11 Tùy biến Môi trường Định lý"
+              "title": "6-4 Tự định nghĩa màu sắc"
             }
           }
         ]
@@ -185,8 +185,13 @@
   },
   "active": "e2b00005954da84f",
   "lastOpenFiles": [
-    "3. Viết công thức Toán học trong LaTeX/3-10 Tạo môi trường Định lý và Định nghĩa.md",
+    "6. Thao tác và định dạng văn bản/6-3 Thao tác với màu sắc.md",
+    "6. Thao tác và định dạng văn bản/6-4 Tự định nghĩa màu sắc.md",
+    "6. Thao tác và định dạng văn bản/6-2 Sử dụng phông chữ mở rộng.md",
+    "6. Thao tác và định dạng văn bản/6-1 Thao tác và định dạng.md",
     "3. Viết công thức Toán học trong LaTeX/3-11 Tùy biến Môi trường Định lý.md",
+    "6. Thao tác và định dạng văn bản",
+    "3. Viết công thức Toán học trong LaTeX/3-10 Tạo môi trường Định lý và Định nghĩa.md",
     "3. Viết công thức Toán học trong LaTeX/3-9 Ma trận và môi trường cases.md",
     "3. Viết công thức Toán học trong LaTeX/3-8 Phông chữ và ký hiệu trong toán học.md",
     "3. Viết công thức Toán học trong LaTeX/3-7 Định dạng Công thức Toán học.md",
@@ -208,7 +213,6 @@
     "ThucHanh/ThucHanh_ToanHoc.pdf",
     "ThucHanh/ThucHanh_ToanHoc.fdb_latexmk",
     "ThucHanh/ThucHanh_ToanHoc.aux",
-    "ThucHanh/ThucHanh_ToanHoc.tex",
     "3. Viết công thức Toán học trong LaTeX/3-3 Môi trường Toán.md",
     "3. Viết công thức Toán học trong LaTeX/3-2 Ký tự Hy Lạp và Phân số trong LaTeX.md",
     "3. Viết công thức Toán học trong LaTeX/3-1 Inline Math.md",
@@ -216,10 +220,6 @@
     "2. Danh sách và bảng/2-4 Tạo bảng trong LaTeX.md",
     "2. Danh sách và bảng/2-2 Tạo Danh sách Không có Thứ tự.md",
     "2. Danh sách và bảng/2-3 Tạo danh sách có thứ tự.md",
-    "2. Danh sách và bảng/2-1 Phân biệt Lệnh và Môi trường.md",
-    "1. Cấu trúc tài liệu LaTeX/1-6 Ghi chú trong LaTeX.md",
-    "1. Cấu trúc tài liệu LaTeX/1-7 Bài tập thực hành.md",
-    "1. Cấu trúc tài liệu LaTeX/1-5 Tạo và Xử lý Đoạn văn.md",
-    "1. Cấu trúc tài liệu LaTeX/1-4 Giới thiệu về Gói lệnh trong LaTeX.md"
+    "2. Danh sách và bảng/2-1 Phân biệt Lệnh và Môi trường.md"
   ]
 }
