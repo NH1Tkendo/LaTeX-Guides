@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8. Lớp văn bản và mẫu/8-3 Xây dựng mẫu dựng sẵn trong LaTeX.md",
+                "file": "9. Soạn slide thuyết trình với Beamer/9-3 Tùy biến Giao diện và Màu sắc trong Beamer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8-3 Xây dựng mẫu dựng sẵn trong LaTeX"
+              "title": "9-3 Tùy biến Giao diện và Màu sắc trong Beamer"
             }
           }
         ]
@@ -185,8 +185,12 @@
   },
   "active": "e2b00005954da84f",
   "lastOpenFiles": [
-    "8. Lớp văn bản và mẫu/8-2 Soạn thảo Thư tín trong LaTeX.md",
+    "9. Soạn slide thuyết trình với Beamer/9-2 Cấu trúc và Hiệu ứng trong Beamer.md",
+    "9. Soạn slide thuyết trình với Beamer/9-3 Tùy biến Giao diện và Màu sắc trong Beamer.md",
+    "9. Soạn slide thuyết trình với Beamer/9-1 Giới thiệu về Beamer.md",
     "8. Lớp văn bản và mẫu/8-3 Xây dựng mẫu dựng sẵn trong LaTeX.md",
+    "9. Soạn slide thuyết trình với Beamer",
+    "8. Lớp văn bản và mẫu/8-2 Soạn thảo Thư tín trong LaTeX.md",
     "8. Lớp văn bản và mẫu/8-1 DocumentClass.md",
     "7. Trích dẫn trong LaTeX/7-3 Sử dụng và Tùy biến Cơ sở dữ liệu BibTeX.md",
     "8. Lớp văn bản và mẫu",
@@ -212,14 +216,10 @@
     "5. Tham chiếu và đường dẫn",
     "4. Xử lý hình ảnh/4-2 Môi trường Hình ảnh.md",
     "4. Xử lý hình ảnh/4-1 Chèn hình ảnh và đồ họa trong LaTeX.md",
-    "3. Viết công thức Toán học trong LaTeX/3-4 Hàm lượng giác.md",
     "4. Xử lý hình ảnh",
     "ThucHanh/ThucHanh_ToanHoc.synctex(busy)",
     "ThucHanh/ThucHanh_ToanHoc.fls",
     "ThucHanh/ThucHanh_ToanHoc.log",
-    "ThucHanh/ThucHanh_ToanHoc.synctex.gz",
-    "ThucHanh/ThucHanh_ToanHoc.pdf",
-    "3. Viết công thức Toán học trong LaTeX/3-3 Môi trường Toán.md",
-    "3. Viết công thức Toán học trong LaTeX/3-2 Ký tự Hy Lạp và Phân số trong LaTeX.md"
+    "ThucHanh/ThucHanh_ToanHoc.synctex.gz"
   ]
 }
